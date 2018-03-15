@@ -2,8 +2,10 @@
   "name": "autoprefixer-demo",
   "version": "1.0.0",
   "description": "autoprefixer-demo",
-  "main": "index.js",
-  "scripts": {},
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp"
+  },
   "repository": {
     "type": "git",
     "url": ""
